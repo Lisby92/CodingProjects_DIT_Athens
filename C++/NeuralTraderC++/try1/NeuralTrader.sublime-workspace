@@ -1,0 +1,1343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"printConsole"
+			],
+			[
+				"new",
+				"newSize"
+			],
+			[
+				"to",
+				"topology"
+			],
+			[
+				"ind",
+				"indexC"
+			],
+			[
+				"index",
+				"layerIndex"
+			],
+			[
+				"get",
+				"getVal"
+			],
+			[
+				"m",
+				"multiplyMatrices"
+			],
+			[
+				"Neu",
+				"NeuralNetwork"
+			],
+			[
+				"ne",
+				"newVal"
+			],
+			[
+				"N",
+				"NeuralNetwork"
+			],
+			[
+				"n",
+				"Neuron"
+			],
+			[
+				"print",
+				"printConsole"
+			],
+			[
+				"Ne",
+				"Neural"
+			],
+			[
+				"L",
+				"layers"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"we",
+				"weightMatrices"
+			],
+			[
+				"ge",
+				"getValue"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"tr",
+				"transposedMatrix"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"re",
+				"reversed"
+			],
+			[
+				"nu",
+				"numCols"
+			],
+			[
+				"time",
+				"ctime\tstandard header"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"s",
+				"successfully"
+			],
+			[
+				"ra",
+				"random0to1"
+			],
+			[
+				"ve",
+				"vector\tstandard header"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"mat",
+				"cmath\tstandard header"
+			],
+			[
+				"Ma",
+				"math.h\tstandard header (deprecated)"
+			],
+			[
+				"ac",
+				"activatedVal"
+			],
+			[
+				"getS",
+				"getSleeping"
+			],
+			[
+				"total",
+				"totalSeeded"
+			],
+			[
+				"tot",
+				"totalSeedless"
+			],
+			[
+				"toa",
+				"totalSeedless"
+			],
+			[
+				"tota",
+				"totalSeeded"
+			],
+			[
+				"numA",
+				"numAlgae"
+			],
+			[
+				"spa",
+				"spawnedR"
+			],
+			[
+				"getA",
+				"getAlive"
+			],
+			[
+				"na",
+				"nativeAnimals"
+			],
+			[
+				"Gr",
+				"Groundhogs"
+			],
+			[
+				"Ra",
+				"Rabbits"
+			],
+			[
+				"car",
+				"carnivoreCount"
+			],
+			[
+				"herbi",
+				"herbivoreCount"
+			],
+			[
+				"her",
+				"herbivores"
+			],
+			[
+				"anima",
+				"animalsCount"
+			],
+			[
+				"ca",
+				"carnivoreCount"
+			],
+			[
+				"ter",
+				"terrain"
+			],
+			[
+				"vi",
+				"victimSleeping"
+			],
+			[
+				"victimS",
+				"victimSleeping"
+			],
+			[
+				"set",
+				"setHungerCount"
+			],
+			[
+				"eco",
+				"ecoSys"
+			],
+			[
+				"food",
+				"foodEaten"
+			],
+			[
+				"mou",
+				"mountainRate"
+			],
+			[
+				"mea",
+				"meadowRate"
+			],
+			[
+				"ea",
+				"eatCount"
+			],
+			[
+				"is",
+				"isAdult"
+			],
+			[
+				"anim",
+				"animalCount"
+			],
+			[
+				"nat",
+				"nativePlantA"
+			],
+			[
+				"bre",
+				"breedingState"
+			],
+			[
+				"tile",
+				"tileCord2"
+			],
+			[
+				"nati",
+				"nativePlantB"
+			],
+			[
+				"getH",
+				"getHeat"
+			],
+			[
+				"inH",
+				"inHibernation"
+			],
+			[
+				"hib",
+				"hibernates"
+			],
+			[
+				"terra",
+				"terrain"
+			],
+			[
+				"par",
+				"parCord2"
+			],
+			[
+				"parC",
+				"parCord2"
+			],
+			[
+				"add",
+				"addNodeC"
+			],
+			[
+				"br",
+				"breedingState"
+			],
+			[
+				"printPla",
+				"printPlants"
+			],
+			[
+				"printPlant",
+				"printPlantStats"
+			],
+			[
+				"pri",
+				"printPlantStats"
+			],
+			[
+				"cord",
+				"cord2"
+			],
+			[
+				"Se",
+				"Seedless"
+			],
+			[
+				"il",
+				"ill"
+			],
+			[
+				"setS",
+				"setSick"
+			],
+			[
+				"setF",
+				"setFactor"
+			],
+			[
+				"tileC",
+				"tileCord2"
+			],
+			[
+				"ti",
+				"tileToken"
+			],
+			[
+				"cur",
+				"curDay"
+			],
+			[
+				"cu",
+				"curDay"
+			],
+			[
+				"newco",
+				"newCord2"
+			],
+			[
+				"vic",
+				"victimPos"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"hunter",
+				"hunterName"
+			],
+			[
+				"hunterC",
+				"hunterCord2"
+			],
+			[
+				"getC",
+				"getCord2"
+			],
+			[
+				"v",
+				"victimFound"
+			],
+			[
+				"hun",
+				"hunterMood"
+			],
+			[
+				"def",
+				"defList"
+			],
+			[
+				"getT",
+				"getToken"
+			],
+			[
+				"hu",
+				"hunterMood"
+			],
+			[
+				"getK",
+				"getKiller"
+			],
+			[
+				"ki",
+				"killerList"
+			],
+			[
+				"foo",
+				"foodGained"
+			],
+			[
+				"animal",
+				"animalH"
+			],
+			[
+				"fo",
+				"foodGained"
+			],
+			[
+				"victim",
+				"victimPos"
+			],
+			[
+				"curS",
+				"curSpeed"
+			],
+			[
+				"size",
+				"sizeList"
+			],
+			[
+				"hunt",
+				"huntResult"
+			],
+			[
+				"days",
+				"daysHungry"
+			],
+			[
+				"eat",
+				"eatenFood"
+			],
+			[
+				"has",
+				"hasFoliage"
+			],
+			[
+				"C",
+				"Carnivore"
+			],
+			[
+				"hung",
+				"hungerList"
+			],
+			[
+				"ani",
+				"animalCount"
+			],
+			[
+				"day",
+				"daysHungry"
+			],
+			[
+				"da",
+				"daysHungry"
+			],
+			[
+				"getHu",
+				"getHungerCount"
+			],
+			[
+				"nee",
+				"needsList"
+			],
+			[
+				"eaten",
+				"eatenList"
+			],
+			[
+				"eate",
+				"eatenList"
+			],
+			[
+				"fi",
+				"filled"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"cli",
+				"climber"
+			],
+			[
+				"clim",
+				"climber"
+			],
+			[
+				"getF",
+				"getFoliage"
+			],
+			[
+				"R",
+				"Rabbit"
+			],
+			[
+				"ch",
+				"changeTile"
+			],
+			[
+				"const",
+				"const"
+			],
+			[
+				"per",
+				"perMealList"
+			],
+			[
+				"siz",
+				"sizeList"
+			],
+			[
+				"atk",
+				"atkList"
+			],
+			[
+				"an",
+				"animalH"
+			],
+			[
+				"node",
+				"nodePos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "NeuralNetwork.cpp",
+			"settings":
+			{
+				"buffer_size": 3481,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Neuron.cpp",
+			"settings":
+			{
+				"buffer_size": 641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NeuralTrader.cpp",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Layer.cpp",
+			"settings":
+			{
+				"buffer_size": 1334,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Matrix.cpp",
+			"settings":
+			{
+				"buffer_size": 1693,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NeuralNetwork.hpp",
+			"settings":
+			{
+				"buffer_size": 740,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Layer.hpp",
+			"settings":
+			{
+				"buffer_size": 451,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Matrix.hpp",
+			"settings":
+			{
+				"buffer_size": 519,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Neuron.hpp",
+			"settings":
+			{
+				"buffer_size": 625,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 660,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Automatic Backups: Step backward in history"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"His",
+				"Local History: Menu"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ken/Documents/NeuralTrader/Layer.cpp",
+		"/home/ken/Documents/NeuralTrader/NeuralNetwork.hpp",
+		"/home/ken/Documents/NeuralTrader/Matrix.hpp",
+		"/home/ken/Documents/NeuralTrader/Matrix.cpp",
+		"/home/ken/Documents/NeuralTrader/NeuralTrader.sublime-project",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Makefile",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/EcoSim.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Tile.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Plant.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Map.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/List.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Date.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Animal.cpp",
+		"/home/ken/Documents/NeuralTrader/Layer.hpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Animal.h",
+		"/home/ken/Documents/NeuralTrader/NeuralNetwork.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Plant.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/List.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Tile.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Map.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Date.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/Makefile",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/test.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/gitqueue.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/ListAsStack.cpp",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/2ndX_DD/Menu.c",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/HashPageTable.cpp",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/HashPageTable.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/Building2.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/Building2.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/B1_0.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Plants.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Plants.cpp",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/MemoryManagerUnit.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Ecosystem.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Ecosystem.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Tester.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Data.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Tiles.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/projectEcosystem/Tiles.h",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/bzip.trace",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/gcc.trace",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/PageReplacement.cpp",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/Frame.h",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/Frame.cpp",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/MemoryManagerUnit.h",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/Makefile",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/paliesmlkia.cpp",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/Lab4/Code5.c",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia1/Building.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia1/Building.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia1/A1_0.cpp",
+		"/home/ken/Documents/leitourgika_project/ergasia1/productionLine.c",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/List.cpp",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/List.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia2/Student_Day.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia2/sim_SD.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia2/Student_Day.h",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/notes.txt",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/FWF.h",
+		"/home/ken/Documents/DI/ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ/project2/FWF.cpp",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/3rdX_DD/stuff/Words.h",
+		"/home/ken/Documents/leitourgika_project/ergasia1/PageTable.c",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Ground.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Building.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/EntryArea.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Elevator.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Office.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Floor.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Escort.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Citizen.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/makefile",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Space.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/SimC1.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/Building2.h",
+		"/home/ken/Documents/java_tests/Menu.java",
+		"/home/ken/Documents/java_tests/Cold.java",
+		"/home/ken/Documents/java_tests/Dish.java",
+		"/home/ken/Documents/java_tests/App1.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia4/C1.java",
+		"/home/ken/Documents/java_tests/makefile",
+		"/home/ken/Documents/java_tests/Dish1.java",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/arrayclass.cpp",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/All-ATD-implementations-fixed/All-ATD-implementations-fixed/2.Queue/C.ArraywithCounter/A.QueueMA/a.Implementation/Qcounter.c",
+		"/media/ken/1EA29AE4A29ABFA7/Documents and Settings/noval/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia1/Building.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/test.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/A1_0.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/Building.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia3/Building.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia1/Building2.cpp",
+		"/home/ken/Documents/blocker.c",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia2/gitqueue.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia2/temporary.cpp",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/2ndX_DD/Menu.h",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/All-ATD-implementations-fixed/All-ATD-implementations-fixed/3.List/C.Array+Index/A.SimpleConnectedArray/A.Array+IndexMA/a.Implementation/ConL_array.c",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/All-ATD-implementations-fixed/All-ATD-implementations-fixed/3.List/A.SequencialArray/A.SequencialArrayMA/a.Implementation/SeqL_array.c",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/All-ATD-implementations-fixed/All-ATD-implementations-fixed/2.Queue/C.ArraywithCounter/B.QueueOA/a.Implementation/Qcounter-OA.c",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/ergasia2/Makefile",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/ch6_Simulation.c",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/2ndX_DD/TyposStoixeiouMenu.h",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/2ndX_DD/TyposStoixeiouMenu.c",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/labs/lab4/quelab4.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/labs/lab4/ask1.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/C++notes/Menu2.cpp",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/TStoixeiouOuras.h",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/TStoixeiouOuras.c",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/ch6_QArray.h",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/ch6_QArray.c",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/Tameio.h",
+		"/home/ken/Documents/DI/ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ/1stexerciseDD/Tameio.c",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/C++notes/Guess2.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/A1_0.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/Building.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/Building.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/proj1/building_citizen.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/proj1/building_citizen.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/proj1/A2.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/BuildingWorks.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/BuildingWorks.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/Building2.h",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/Building2.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/labs/lab3/ask3.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/labs/lab3/pets.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/Makefile",
+		"/home/ken/Documents/leitourgika_project/palia ilias/Ask1_0900115/main.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/labs/lab3/testask3.cpp",
+		"/home/ken/Documents/DI/ΑντικειμενοστραφήςΠρογ/labs/lab3/string3.cpp",
+		"/home/ken/Downloads/csv_parser_2candlesticks.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Layer",
+			"< needsList",
+			"(eatenSoFar < needsList[k])",
+			"eatenSoFar < needsList[k]",
+			"if(eatenSoFar < needsList[k])",
+			"stretch",
+			"still alive",
+			"cout << key << \" with size",
+			"//cout << key << \" with size \" << size << \" speed \" << speed << \" adult \" << isAdult << \" grew to\\n\";",
+			"//cout << \"Algae seedling spawned @ empty tile (\" << tileCord1 << \", \" << tileCord2 << \")!\\n\";",
+			"numBear",
+			"//first 2 bools are hungry and in heat?? what should be the initial values?",
+			"printPlants",
+			"printS",
+			"seedling spawned",
+			"seedling spa",
+			"printPlant",
+			"setToken",
+			"seedling spawned @",
+			"applySeason",
+			"loseliFe",
+			"is now dead",
+			"delNode",
+			"got in",
+			"tileCord2 \")!\\n\";",
+			"terrain[i][j]->isAlive()",
+			"breeding",
+			"curDay",
+			"flag = victimPos;",
+			"Days hungry",
+			"animalEating(\"H\"",
+			"huntResult",
+			"getVictims",
+			"victimsPos",
+			"Failed to move from tile ",
+			"Failed to move!\\n",
+			"updateAnimal",
+			"updateMove",
+			"getToken",
+			"Bear",
+			"sprout",
+			"printP",
+			" /",
+			"\"\\0\"",
+			"\", \"",
+			"}",
+			"const int &",
+			"int",
+			"double",
+			"\"\\0\"",
+			"\"~\"",
+			"Ecosystem",
+			"Ecosystem::",
+			"south border or full",
+			"north border or full",
+			"east border or full",
+			"west border or full",
+			"west border or empty",
+			"border or full",
+			"cord2+j",
+			"cord1+i",
+			"(size / 2)",
+			"expand",
+			"W",
+			"setCurPF",
+			"retrieveFromRAM",
+			"retrieveFromDisk",
+			"flag",
+			"(hash % maxFrames)",
+			"hash%",
+			"flag",
+			"//common code",
+			"printf",
+			"<< ",
+			"m_cap",
+			"c_cap",
+			"Passengers",
+			"m_cap",
+			"cur_cap",
+			"this->",
+			"CLOCK_MONOTONIC",
+			"pid",
+			"_id",
+			"MPI_Barrrier",
+			"(&(",
+			"done",
+			"flag1",
+			"col_end",
+			"col_start",
+			"row_end",
+			"row_start",
+			"grey_pic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "NeuralNetwork.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2498,
+								2498
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1368.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Neuron.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "NeuralTrader.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Layer.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "Matrix.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1649,
+								1649
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 899.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "NeuralNetwork.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							],
+							[
+								405,
+								405
+							],
+							[
+								453,
+								453
+							],
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Layer.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Matrix.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Neuron.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.55593220339,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NeuralTrader.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
