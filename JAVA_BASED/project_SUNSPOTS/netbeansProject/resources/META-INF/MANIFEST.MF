@@ -1,0 +1,11 @@
+MIDlet-Name: EmulatorDemo
+MIDlet-Version: 1.1.0
+MIDlet-Vendor: Oracle
+MIDlet-Description: Project2019 vasileios mavrommatis 1115201200106
+MIDlet-1: SensorNode2019 middlet to be used as sensor with mean = 0.0 and standard deviation = 1.0, , org.sunspotworld.SensorNode2019
+MIDlet-2: SensorNode2019DIF middlet to be used as sensor with random mean and standard deviation, , org.sunspotworld.SensorNode2019DIF
+MIDlet-3: AggregatorNode2019 middlet to be used as aggregator with fixed horizon, , org.sunspotworld.AggregatorNode2019
+MIDlet-4: SinkNode2019 middlet to be used as a sink, , org.sunspotworld.SinkNode2019
+MIDlet-5: ThreadAggregator middlet to be used as a aggregator, , org.sunspotworld.ThreadAggregator
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1

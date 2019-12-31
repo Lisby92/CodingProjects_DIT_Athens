@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- first version using hand generated XML -->
+<virtual-config keep-addresses="true" run-midlets="true">
+  <gridview x="400.0" y="320.0" zoom="1.0"/>
+  <virtual-spot address="0a41.5940.0000.1001" name="spot 1">
+    <jar file="emulator_demo.jar"/>
+    <midlet name="org.sunspotworld.SensorChecker"/>
+    <position x="-59.0" y="-222.0"/>
+  </virtual-spot>
+  <virtual-spot address="0a41.5940.0000.1002" name="spot 2">
+    <jar file="emulator_demo.jar"/>
+    <midlet name="org.sunspotworld.Sawtooth"/>
+    <position x="291.0" y="-225.0"/>
+  </virtual-spot>
+  <virtual-spot address="0a41.5940.0000.1003" name="spot 3">
+    <jar file="emulator_demo.jar"/>
+    <midlet name="org.sunspotworld.Count"/>
+    <position x="-61.0" y="63.0"/>
+  </virtual-spot>
+  <virtual-spot address="0a41.5940.0000.1004" name="spot 4">
+    <jar file="emulator_demo.jar"/>
+    <position x="301.0" y="57.0"/>
+  </virtual-spot>
+  <description>
+    <![CDATA[A series of sample MIDlets to demonstrate the new SPOT Emulator.
+
+SensorChecker
+------------
+
+This MIDlet demonstrates how the Virtual Sensor Panel can be used
+in the SPOT World Emulator to interact with a virtual SPOT.
+Use the Virtual SPOT's pop-up menu to display the sensor panel.
+ 
+The LEDs on the virtual SPOT display the value read from one
+of the SPOT's sensors.
+
+There are four different modes:
+
+ 1. Display the light sensor reading in white
+ 2. Display the temperature sensor reading in red.
+ 3. Display the analog input A0 in green.
+ 4. Display the Z acceleration in blue.
+
+As you move the appropriate slider in the sensor panel you will 
+see a change in the LED display.
+
+Pushing the left switch (SW1) advances to the next mode.
+The current mode is shown by setting one of H0-H3 to high.
+
+Also D0 is set as an output and the application sets it
+to mirror the value that D1 is set to.
+
+
+Sawtooth
+-------
+
+A very simple MIDlet to turn on the LEDs one by one,
+each brighter than the previous until they are all on.
+Then all the LEDs are turned off and the cycle repeats.
+
+
+Count
+-----
+
+A simple MIDlet that uses the left switch (SW1) to set the color of the LEDs
+and the right switch (SW2) to count in binary in the LEDs.
+
+
+BroadcastCount
+-------------
+
+A simple MIDlet that uses the left switch (SW1) to broadcast a message
+to set the color of the LEDs of any receiving SPOTs and the right 
+switch (SW2) to count in binary in its LEDs.
+
+Messages received from the other SPOTs control the LEDs of this SPOT.
+
+If a shared basestation is available a real SPOT can interact with the
+virtual SPOTs via the radio.
+
+
+UnicastCount
+-------------------
+
+A simple MIDlet that pairs two SPOTs so each controls the others LEDs.
+The left switch (SW1) sends a message to set the color of the LEDs of
+its paired SPOT and the right switch (SW2) to count in binary in its LEDs.
+
+Messages received from the other SPOT controls the LEDs of this SPOT.
+
+Even addresses pair with smaller odd addresses, & odd addresses pair
+with larger even addresses.
+]]>
+  </description>
+</virtual-config>
