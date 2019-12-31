@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="gr.di.uoa.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="0"
+        android:title="@string/menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/networkParameters"
+        android:orderInCategory="1"
+        android:title="@string/network_parameters"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/timesteps"
+        android:orderInCategory="2"
+        android:title="@string/file_parameters"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="3"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+</menu>

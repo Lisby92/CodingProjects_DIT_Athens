@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30602f21-e113-4228-a700-bb96d0f839ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/edgeServer/CSVwriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/CSVwriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/RSSI_Throughput.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/RSSI_Throughput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/XMLParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/XMLParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/edge_server/MQTTclientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/edge_server/MQTTclientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/edge_server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/edge_server/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/heatmapgenerator/GridPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/heatmapgenerator/GridPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/heatmapgenerator/LegendPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/heatmapgenerator/LegendPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/heatmapgenerator/MultiGradient.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/heatmapgenerator/MultiGradient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edgeServer/heatmapgenerator/PercentCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/edgeServer/heatmapgenerator/PercentCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/edgeServer" />
+  </component>
+  <component name="ProjectId" id="1SW0Jnhm2GOewQhNNcVqktq2XAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edgeServer.Main" />
+      <module name="projectNetworks2019" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30602f21-e113-4228-a700-bb96d0f839ec" name="Default Changelist" comment="" />
+      <created>1571663975223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571663975223</updated>
+      <workItem from="1571663978554" duration="985000" />
+      <workItem from="1571666447396" duration="13421000" />
+      <workItem from="1571681780600" duration="16000" />
+      <workItem from="1571727331218" duration="9242000" />
+      <workItem from="1571751917204" duration="10997000" />
+      <workItem from="1571821370112" duration="16261000" />
+      <workItem from="1571843842218" duration="11438000" />
+      <workItem from="1571899130213" duration="29750000" />
+      <workItem from="1571993336036" duration="13195000" />
+      <workItem from="1572087514395" duration="2815000" />
+      <workItem from="1572168636296" duration="358000" />
+      <workItem from="1572266705056" duration="175000" />
+      <workItem from="1572267079312" duration="8000" />
+      <workItem from="1572444989599" duration="14000" />
+      <workItem from="1572445577435" duration="15000" />
+      <workItem from="1572452511497" duration="1359000" />
+      <workItem from="1572510692748" duration="13837000" />
+      <workItem from="1572534241347" duration="1778000" />
+      <workItem from="1572546040302" duration="647000" />
+      <workItem from="1572696940466" duration="9000" />
+      <workItem from="1572718713327" duration="603000" />
+      <workItem from="1572860587574" duration="3450000" />
+      <workItem from="1572882391091" duration="1414000" />
+      <workItem from="1572942035213" duration="4196000" />
+      <workItem from="1572951392920" duration="2272000" />
+      <workItem from="1573050343732" duration="665000" />
+      <workItem from="1573051176672" duration="615000" />
+      <workItem from="1573113690325" duration="5097000" />
+      <workItem from="1573299944653" duration="1904000" />
+      <workItem from="1573318735502" duration="1394000" />
+      <workItem from="1573753364078" duration="2453000" />
+      <workItem from="1574520619148" duration="4228000" />
+      <workItem from="1574587893628" duration="13356000" />
+      <workItem from="1575716113571" duration="21156000" />
+      <workItem from="1575803051797" duration="5499000" />
+      <workItem from="1575809274556" duration="8363000" />
+      <workItem from="1575883668337" duration="23356000" />
+      <workItem from="1575913107346" duration="559000" />
+      <workItem from="1575966588987" duration="2450000" />
+      <workItem from="1575986516232" duration="10071000" />
+      <workItem from="1575999848501" duration="84000" />
+      <workItem from="1576060514996" duration="2025000" />
+      <workItem from="1576079860226" duration="8132000" />
+      <workItem from="1576141965193" duration="13775000" />
+      <workItem from="1576231173998" duration="4556000" />
+      <workItem from="1576402192011" duration="4971000" />
+      <workItem from="1576486740376" duration="1215000" />
+      <workItem from="1576504280506" duration="1205000" />
+      <workItem from="1576569450809" duration="6975000" />
+      <workItem from="1576664921440" duration="1271000" />
+      <workItem from="1576754979518" duration="782000" />
+      <workItem from="1576767540166" duration="7209000" />
+      <workItem from="1576781952762" duration="34000" />
+      <workItem from="1576919918149" duration="6868000" />
+      <workItem from="1577007845846" duration="2375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="187" width="800" height="677" key="#SQL_Dialects" timestamp="1575811705042">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="555" y="187" width="800" height="677" key="#SQL_Dialects/0.27.1920.999@0.27.1920.999" timestamp="1575811705042" />
+    <state x="555" y="187" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575812190980">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="555" y="187" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.999@0.27.1920.999" timestamp="1575812190980" />
+    <state x="754" y="413" width="484" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575720187701">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="754" y="413" width="484" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.999@0.27.1920.999" timestamp="1575720187701" />
+    <state x="705" y="242" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1576155162772">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="705" y="242" width="489" height="567" key="DetectedRootsChooserDialog/0.27.1920.999@0.27.1920.999" timestamp="1576155162772" />
+    <state x="738" y="283" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576159266240">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="738" y="283" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.999@0.27.1920.999" timestamp="1576159266240" />
+    <state width="1874" height="247" key="GridCell.Tab.0.bottom" timestamp="1577019358296">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.0.bottom/0.27.1920.999@0.27.1920.999" timestamp="1577019358296" />
+    <state width="1874" height="247" key="GridCell.Tab.0.center" timestamp="1577019358296">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.0.center/0.27.1920.999@0.27.1920.999" timestamp="1577019358296" />
+    <state width="1874" height="247" key="GridCell.Tab.0.left" timestamp="1577019358296">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.0.left/0.27.1920.999@0.27.1920.999" timestamp="1577019358296" />
+    <state width="1874" height="247" key="GridCell.Tab.0.right" timestamp="1577019358296">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.0.right/0.27.1920.999@0.27.1920.999" timestamp="1577019358296" />
+    <state x="766" y="463" width="377" height="126" key="ReplaceDuplicatesPrompt" timestamp="1575719124411">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="766" y="463" width="377" height="126" key="ReplaceDuplicatesPrompt/0.27.1920.999@0.27.1920.999" timestamp="1575719124411" />
+    <state x="443" y="103" width="1024" height="845" key="SettingsEditor" timestamp="1576755908530">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="443" y="103" width="1024" height="845" key="SettingsEditor/0.27.1920.999@0.27.1920.999" timestamp="1576755908530" />
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1577007846791">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog/0.27.1920.999@0.27.1920.999" timestamp="1577007846791" />
+    <state x="624" y="218" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576416552642">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="624" y="218" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.999@0.27.1920.999" timestamp="1576416552642" />
+    <state x="884" y="526" width="568" height="500" key="extract.method.dialog" timestamp="1575885321199">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="884" y="526" width="568" height="500" key="extract.method.dialog/0.27.1920.999@0.27.1920.999" timestamp="1575885321199" />
+  </component>
+</project>
