@@ -1,0 +1,69 @@
+episis CUDA_CORES (NVIDIA) , Stream Processors (AMD)
+emeis exoume 2304 stream processors kai 8GB ram
+ara mporoume na treksoume arketa peiramata
+as poume mexri 2048 cores :P
+1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048 threads runs ^^
+
+    //an douleuoun oi allages sto neighbooor discovery na to kanoume
+    eniaio kodika pros to paron EE fix kai doulema ola me case 6, 8, 10
+    NN fix
+    //logika i middle ftaiei 7 kai dodeka kalunixta
+    //review ton code gia middle grammi grammi
+    nn ss den eoxun sigoura prob sta partitions 8, 10
+    16 kai 20 pouy exoun middle gamiete diaforetika gia to kathena
+    fix gia 20 kai check gia 16
+    kai meta allages kai sta alla pou exoume na paradosoume
+    paizei na ftaiei kai auto se kapoia pragmata
+    fix middle process code , ti skata eixa grapsei re pousti....
+
+    
+//lathos data mallon sumvainei epeidi ta threads den prolavainoun na
+//suxronisoun anamesa sto 2 blocks, i syncthreads den exei noima
+douleuei mono sto idio block
+
+//i logiki leei oti uparxei data race
+
+//gia na exoume kapos tin shared memory tou kathe block
+thelei polla kernel launch to kathena st okommati tou
+meta kernel synch ston host kai meta allagi pointers
+
+i enan global shared array me tin logiki pou anaferthike
+oste na vlepei to kathe block oti ta alla exoun teleiosei
+
+omos uparxei ena prob edo, den uparxoun guarantees oti ola
+ta block tha trexoun tautoxrona opote an ena perimenei gia porous
+kai ta alla perimenoun auto gia na deiksei oti teleiose exoume
+deadlocks, pou tha sumvoun sigoura gia megalo arithmo threads
+
+epomenos apoti katalavaino eite global eite shared theloume
+synchronization sta blocks allios mono
+me multiple kernel launch kai allages me swap apo host code
+gia sigoura valid apotelesmata kai pollous sunduasmous
+
+ara apoti fainetai to globalMem douleuei kai gia oti nanai block size tora
+
+//ara kati tetoio tha paradosoume opos to vlepo afou den exei kai polles
+apaitiseis o kotronis oute leei ti kai pos, kai mallon oute na to
+treksei tha mporei kapou
+
+mporoume na grapsoume genikes paratiriseis se findings apo auto to arxeio
+gia shared memory multiple blocks , block syncs, data races, giati einai
+kako to block synch, ktlpa
+
+na tou paradosoume metriseis kai se hip kai se cuda
+kai ta 2 source progs
+kai episis na kanoume kai ena test me to porting meso hip apo cuda
+na doume ti kodika vgazei
+
+den exei noima na kanoume metriseis se mena mono gia to hip
+logika tha thelei sto idio gpu gia na doume isos xronous anamesa
+sta 2 gpu progs
+
+
+gia na doume pio access einai to kalutero tha kanoume 2 progs
+kai ta 2 profanos tha theloun ta global oria gia ta copies
+opos einai idi grammena ta kernel updates
+sto proto tha exoume dipli shared kai copies mesa opos to working skeleton
+sto deutero moni shared kai device pointer ekso me multiple kernel launches
+prota omos tha grapsoume mia function __device swap kai tha dokimasoume
+an mporei na to kanei mesa, an mporei logika auto tha einai kai to kalutero prog
